@@ -1,0 +1,15 @@
+.root {
+  width: 250px;
+  height: 100%;
+  transition: transform .3s;
+}
+
+.root-closed {
+  position: fixed;
+  transform: translate(-100%);
+  transition: transform .3s;
+}
+
+.content {
+  height: 100%;
+}

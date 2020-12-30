@@ -1,0 +1,28 @@
+.root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.container {
+  display: inline-block;
+  padding: 20px;
+  width: 300px;
+}
+
+.root form > div {
+  margin: 40px 0 40px 0;
+}
+
+.root form > div > * {
+  width: 100%;
+}
+
+.root form > div:first-child {
+  margin-top: 0;
+}
+
+.root form > div:last-child {
+  margin-bottom: 0;
+}

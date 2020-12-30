@@ -1,0 +1,11 @@
+.pagination-top {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.pagination-bottom {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row-reverse;
+}

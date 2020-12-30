@@ -1,0 +1,4 @@
+{
+  "AUTHENTICATION_API_URL": "https://localhost:4431/api/",
+  "RESOURCE_API_URL": "https://localhost:4432/api/"
+}

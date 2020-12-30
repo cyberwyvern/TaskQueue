@@ -1,0 +1,9 @@
+.root form {
+  display: inline-flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.root form > * {
+  margin-bottom: 30px;  
+}
